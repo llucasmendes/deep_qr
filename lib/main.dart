@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'package:deep_qr/first_link.dart';
-import 'package:deep_qr/fisrt_qr.dart';
-import 'package:deep_qr/second_link.dart';
-import 'package:deep_qr/second_qr.dart';
+import 'package:deep_qr/features/deeplink/presentation/pages/first_link.dart';
+import 'package:deep_qr/features/qrcode/presentation/pages/fisrt_qr.dart';
+import 'package:deep_qr/features/deeplink/presentation/pages/second_link.dart';
+import 'package:deep_qr/features/qrcode/presentation/pages/second_qr.dart';
 
 void main() {
   runApp(MainApp());
