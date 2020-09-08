@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/deep_qr.iml" filepath="$PROJECT_DIR$/deep_qr.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/deep_qr_android.iml" filepath="$PROJECT_DIR$/android/deep_qr_android.iml" />
     </modules>
   </component>
 </project>
